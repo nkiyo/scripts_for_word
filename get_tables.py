@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
 
-from docx import Document 
+from docx import Document
 
 wordDoc = Document("./sample.docx")
 
